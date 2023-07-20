@@ -2,7 +2,7 @@
 
 <br>
 
-<p align="center"><img src="https://socialify.git.ci/kranthikumarkaranam/gpt-3xperience/image?description=1&amp;font=Raleway&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Signal&amp;theme=Auto" alt="project-image"></p>
+<p align="center"><img src="https://socialify.git.ci/kranthikumarkaranam/gpt-3xperience/image?description=1&amp;font=Raleway&amp;logo=https%3A%2F%2Fraw.githubusercontent.com%2Fkranthikumarkaranam%2Fgpt-3xperience%2F74503fd3cfe3d53eaaea549964acede0353fdd5b%2Fsrc%2Fassets%2Flogo.svg&amp;name=1&amp;owner=1&amp;pattern=Signal&amp;theme=Auto" alt="project-image"></p>
 
 <p align="center" id="description" >GPT-3Xperience is a cutting-edge conversational AI solution designed to enhance business interactions. Powered by OpenAI's GPT-3, the project leverages advanced natural language processing to enable businesses to communicate with their customers more efficiently and effectively. With GPT-3Xperience, businesses can streamline customer support, automate routine tasks, and personalize customer experiences, all while reducing costs and increasing customer satisfaction. The project represents a significant step forward in the field of conversational AI and has the potential to transform the way businesses interact with their customers.</p>
 
