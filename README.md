@@ -13,7 +13,7 @@
 
 <p>Experience the future of conversational AI with GPT-3Xperience. Click the link for a live demo and witness how it can revolutionize your business interactions.</p>
 
-**Live Preview** ➡️ [Demo](https://kranthi-kumar-gpt-3xperience.netlify.app/)
+**Live Preview** ➡️ [Demo](https://gpt3xperience-kranthi.netlify.app/)
 
 <br>
 <br>
